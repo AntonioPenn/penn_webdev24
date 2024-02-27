@@ -1,1 +1,11 @@
-
+body {
+  background-color: #FFFFFF
+    color: #666666;
+} 
+h1 {
+  background-color: #00B386;
+  color: #FFFFFF;
+}
+nav {
+  background-color: #70DBDB
+}
