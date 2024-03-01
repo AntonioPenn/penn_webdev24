@@ -5,7 +5,12 @@ body {
 } 
 
 header {
-  background-image: url("pastures.png");
+  background-image: url("images/pastures.png");
+  background-position: right;
+  background-color: #00B386;
+  line-height: 400%;
+  text-indent: 1em;
+  color: #FFFFFF;
 }  
 
 h1 {
