@@ -42,5 +42,15 @@ dt {
 }
 .barn {
   color: #70DBDB
+  font-style: bold;
 }
-font
+#contact {
+  font-size: 90%;
+}
+footer {
+  foot-size: 75%;
+  foot-style: italic;
+  text-align: centered;
+  font-family: Georgia, Times New Roman, serif;
+}
+
